@@ -13,9 +13,9 @@ Description:
     The model was trained for 4 epochs.
     The model was trained and tested on Google Colab.
 Results within 10 trials:
-    Best top-1 ACCURACY: 81.32%
-    Average top-1 ACCURACY: 78.81%
-    Min top-1 ACCURACY: 76.75%
+    Best top-1 accuracy: 81.32%
+    Average top-1 accuracy: 78.81%
+    Min top-1 accuracy: 76.75%
     Train time: 1048.62s < 1200s
 Hyperparameters:
     Learning rate: [0.06, 0.15, 0.2, 0.05]
