@@ -28,7 +28,6 @@ Hyperparameters:
     Activation: ReLU
     Optimizer: Adagrad
     Loss: CrossEntropyLoss
-    See tune() for more details on tuning hyperparameters.
 ```
 
 ## How fast is it?
